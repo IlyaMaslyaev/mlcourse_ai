@@ -1,4 +1,2 @@
-.ipynb
-*/.ipynb_checkpoints
-*/lectures/.ipynb_checkpoints
-*/lectures/.ipynb
+**/.ipynb
+.ipynb_checkpoints/
